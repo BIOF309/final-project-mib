@@ -4,6 +4,15 @@ MIB Group Final Project
 The following project presents four graphs of **obesity and mental health** prevalence in the United States.
 We have compared gender and age group across the US in an attempt to better understand the link between the two diseases.
 
+#####Figure 1 shows obesity and depression rates over time for adults.
+![obesity_and_depression_linegraphs](https://github.com/BIOF309/final-project-mib/blob/master/obesity_and_depression_linegraphs.PNG)
+
+##### Figure 2 shows the prevalence of any mental health disorder in 2016 by gender and various age groups
+![bar_graph_mental_health](https://github.com/BIOF309/final-project-mib/blob/master/bar_graph_mental_health.PNG)
+
+
+#### Figure 3 shows the prevalence of people with both obesity and depression by age group and gender
+![depression_and_obesity_graphs](https://github.com/BIOF309/final-project-mib/blob/master/depression_and_obesity_graphs.PNG) 
 
 
 Project Organization
