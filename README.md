@@ -4,7 +4,7 @@ MIB Group Final Project
 The following project presents four graphs of **obesity and mental health** prevalence in the United States.
 We have compared gender and age group across the US in an attempt to better understand the link between the two diseases.
 
-#####Figure 1 shows obesity and depression rates over time for adults.
+##### Figure 1 shows obesity and depression rates over time for adults.
 ![obesity_and_depression_linegraphs](https://github.com/BIOF309/final-project-mib/blob/master/obesity_and_depression_linegraphs.PNG)
 
 ##### Figure 2 shows the prevalence of any mental health disorder in 2016 by gender and various age groups
@@ -24,17 +24,12 @@ Project Organization
     ├── data
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    │   
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
+    ├    │
+    ├  │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
