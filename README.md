@@ -1,12 +1,8 @@
-final-project-template
+MIB Group Final Project
 ==============================
 
-A template I recommend for final projects. Feel free to modify as needed!
-Based on Cookiecutter Data Science:
-
-repo: https://github.com/drivendata/cookiecutter-data-science
-
-site: http://drivendata.github.io/cookiecutter-data-science/
+The following project presents four graphs of **obesity and mental health** prevalence in the United States.
+We have compared gender and age group across the US in an attempt to better understand the link between the two diseases.
 
 
 
