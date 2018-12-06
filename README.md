@@ -1,10 +1,27 @@
-MIB Group Final Project
-==============================
+_MIB TEAM PROJECT_
+______
+Members: Louise Stolz, Fernanda Juarez, Xuefeng Yan
 
-*Please see "Project explained" for a more detailed explanation of the coding and thought process behind this project.*
+_**Purpose of this project:**_ Our lab studies neuroinflammation and depression using PET neuroimaging.
+Our research has shown that there is a relationship between neuroinflammation and depression however, for this project we wanted to
+see if there was a correlation between depression and obesity.
+
+Studies have shown that certain parts of the brain, such as the hypothalamus, hippocampus, cortex, brainstem, and amygdala, are affected by obesity-derived neuroinflammation
 
 The following project presents four graphs of **obesity and mental health** prevalence in the United States.
 We have compared gender and age group across the US in an attempt to better understand the link between the two diseases.
+
+**Why studying obesity and depression is important**
+- Need for better understanding of links
+- Obesity is the second leading cause of death
+
+
+**Coding Process**
+- Tried to create the best graphs for the data presented
+- Limits
+
+
+**GRAPHS**
 
 ##### Figure 1 shows obesity and depression rates over time for adults.
 ![obesity_and_depression_linegraphs](https://github.com/BIOF309/final-project-mib/blob/master/obesity_and_depression_linegraphs.PNG)
@@ -14,53 +31,11 @@ We have compared gender and age group across the US in an attempt to better unde
 
 
 #### Figure 3 shows the prevalence of people with both obesity and depression by age group and gender
-![depression_and_obesity_graphs](https://github.com/BIOF309/final-project-mib/blob/master/depression_and_obesity_graphs.PNG) 
+![depression_and_obesity_graphs](https://github.com/BIOF309/final-project-mib/blob/master/depression_and_obesity_graphs.PNG)
 
 
-Project Organization
-------------
-
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├    │
-    ├  │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+**Conclusions**
+![neuroinflammation](https://github.com/BIOF309/final-project-mib/blob/master/neuroinflammation.jpg)
 
 
---------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
