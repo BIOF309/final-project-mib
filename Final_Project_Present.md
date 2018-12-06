@@ -6,7 +6,7 @@ _**Purpose of this project:**_ Our lab studies diseases related to neuroinflamma
 Our research has shown that there is a relationship between neuroinflammation and depression however, for this project, we wanted to
 see if there was a correlation between depression and obesity.
 
-![Neuroinflammation image](https://github.com/BIOF309/final-project-mib/neuroMIB.PNG)
+![Neuroinflammation image](https://github.com/BIOF309/final-project-mib/blob/master/neuroMIB.PNG)
 
 Studies have shown that certain parts of the brain, for example the hypothalamus, hippocampus, cortex, brainstem, and amygdala, are affected by obesity-derived neuroinflammation.
 
@@ -26,7 +26,7 @@ ___________________________________________________
 - Tried to create the best graphs for the data presented
 - Limitations
 
-![chloropleth](https://github.com/BIOF309/final-project-mib/chloropleth.PNG)
+![chloropleth](https://github.com/BIOF309/final-project-mib/blob/master/chloropleth.png)
 
 _______________________________________________________
 
