@@ -1,0 +1,25 @@
+Objective of the project: As a lab group, we wanted to create a project which would implement the skills of every member 
+and create something which would be useful for our research. 
+
+Initially, I (Louise) had wanted to implement machine learning to recognize the major organs of importance from our PET scan images. 
+We spend a lot of time manually outlining the organs in 3D on the PET/CT images we gather from the scans. This is an extremely time consuming
+process which could be made more efficient by creating an algorithm to outline the organs for us. Unfortunately, I was the only member to 
+take the machine learning course so the other members would not be able to benefit as much. Futhermore, this project did not seem achievable
+in the time required to complete the final project for this course. That being said, I will continue to pursue this project separately. 
+
+We therefore realized the need for a simple project which could be done properly and still be beneficial to all the members. Data manipulation
+and presentation is an essential skill for any scientist. We decided to manipulate data from online databases and present it in different forms 
+of graphs as a way to practice data manipulation in our future work. 
+
+The coding process: We sought to create a variety of graphs presenting many different correlations to explain a phenomenon. We still chose
+to study a subject related to our lab research (the connection between neuroinflammation and depression). We had wanted to compare age, gender,
+race, and country data. 
+
+Unfortunately, there were some graphs we did not succeed at making such as the chloropleth to show the prevalence of obesity around the world. 
+We did succeed at showing obesity, depression, mental health, and obesity+mental health rates across the United States. In the end, focusing
+on only a few factors made our narrative clearer and our data more understandable. 
+
+There are 3 scripts to produce the graphs. One loads the data from excel and outputs line graphs. Another creates bar graphs, and the final one
+contained manually inputed data to produce two comparison bar graphs. One of the major challenges of this project was trying to simplify the
+large amount of data into a file that would be simpler for python to read. Despite the challenges and need to reorient our goals, we believe we 
+succeeded at creating a comprehensible summary of data which can be used to interpret links between two diseases. 
