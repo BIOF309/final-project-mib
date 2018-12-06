@@ -1,6 +1,8 @@
 MIB Group Final Project
 ==============================
 
+*Please see "Project explained" for a more detailed explanation of the coding and thought process behind this project.*
+
 The following project presents four graphs of **obesity and mental health** prevalence in the United States.
 We have compared gender and age group across the US in an attempt to better understand the link between the two diseases.
 
